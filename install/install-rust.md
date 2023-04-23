@@ -21,6 +21,7 @@ $ ~ $ cargo version
 cargo 1.68.2 (6feb7c9cf 2023-03-26)
 ```
 if the version is appear, then we are successfuly installing rust
+
 **NOTES:**
 
 - `$CARGO_HOME` and `$RUSTUP_HOME` that we add into `.profile` or `.bash_profile` is from [archlinux base dir](https://wiki.archlinux.org/title/XDG_Base_Directory).
