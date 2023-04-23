@@ -30,6 +30,7 @@ $ go version
 
 **NOTES:**
 
-`$XDG_DATA_HOME` and `$XDG_CACHE_HOME` is just XDG base dir specifications.
+- `$XDG_DATA_HOME` and `$XDG_CACHE_HOME` is just XDG base dir specifications.
+- code that we add into `.profile` or `.bash_profile` is from [archlinux base dir](https://wiki.archlinux.org/title/XDG_Base_Directory)
 
 its just xdg base dir specification: [Read More](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
